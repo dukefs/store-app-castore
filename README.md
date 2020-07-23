@@ -55,7 +55,7 @@ For that, I used [this user interface design](https://www.ui8.net/carrot-labs/pr
 - To build and start the app on iOS device run this command:</br>
     `npx react-native run-ios`
 
-- To build and start the app on Android device run this command:</br>
+- To build and start the app on Android device, open Android Emulator, then run this command on previous terminal:</br>
     `npx react-native run-android`
 
 ## :pencil: Author
