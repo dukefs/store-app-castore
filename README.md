@@ -40,8 +40,14 @@ For that, I used [this user interface design](https://www.ui8.net/carrot-labs/pr
 - After cloning, enter the cloned repository directory:</br>
     `cd store-app-castore`
 
-- Once being inside the directory, download the dependencies using:</br>
+- Once being inside the directory, download and install the dependencies using:</br>
     `npm i`
+    
+- Now you need to link assets, then run:</br>
+    `npx react-native link`
+    
+- For iOS device, install the pod dependencies with this command:</br>
+    `cd ios && pod install && cd ..`
 
 - Start development server running:</br>
     `npx react-native start`
