@@ -36,25 +36,20 @@ For that, I used [this user interface design](https://www.ui8.net/carrot-labs/pr
 
 - First, you need to have NodeJS and Npm installed, then clone the project via HTTPS through this command:</br>
     `git clone https://github.com/dukefullstack/store-app-castore`
-</br>
 
-- After cloning, enter the cloned repository directory:
+- After cloning, enter the cloned repository directory:</br>
     `cd store-app-castore`
-</br>
 
-- Once being inside the directory, download the dependencies using:
+- Once being inside the directory, download the dependencies using:</br>
     `npm i`
-</br>
 
-- Start development server running:
+- Start development server running:</br>
     `npx react-native start`
-</br>
 
-- To build and start the app on iOS device run this command:
+- To build and start the app on iOS device run this command:</br>
     `npx react-native run-ios`
-</br>
 
-- To build and start the app on Android device run this command:
+- To build and start the app on Android device run this command:</br>
     `npx react-native run-android`
 
 ## :pencil: Author
