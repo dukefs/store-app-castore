@@ -34,7 +34,7 @@ For that, I used [this user interface design](https://www.ui8.net/carrot-labs/pr
 
 ## :heavy_check_mark: Installation
 
-- First, you need to have NodeJS and Npm installed, then clone the project via HTTPS through this command:
+- First, you need to have NodeJS and Npm installed, then clone the project via HTTPS through this command:</br>
     `git clone https://github.com/dukefullstack/store-app-castore`
 </br>
 
